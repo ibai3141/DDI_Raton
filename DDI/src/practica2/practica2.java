@@ -65,6 +65,7 @@ public class practica2 extends JFrame {
         setMinimumSize(min);
 
         setVisible(true);
+        System.out.println();
     }
 
    
